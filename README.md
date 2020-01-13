@@ -1,6 +1,8 @@
 # Cleaning a Dataset: Human Activity Recognition Using Smartphones
 
-Human Activity Recognition Using Smartphones Data Set
+UCI Machine Learning Repository: Human Activity Recognition Using Smartphones Data Set
+Abstract: Human Activity Recognition database built from the recordings of 30 subjects performing 
+activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 I will create one R script called run_analysis.R that does the following:
